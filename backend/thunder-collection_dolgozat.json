@@ -1,0 +1,56 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "dolgozat",
+    "dateExported": "2024-04-17T18:38:58.298Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "ba69c909-3410-4719-872e-cb9fdc23f7ee",
+            "colId": "b975e8b2-3cf0-4670-81fe-2bf96116298a",
+            "containerId": "",
+            "name": "tesztek",
+            "url": "tesztek",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-04-17T18:37:23.763Z",
+            "modified": "2024-04-17T18:38:10.340Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "a205ba71-5f80-4bce-aa03-5cbe63936e7c",
+            "colId": "b975e8b2-3cf0-4670-81fe-2bf96116298a",
+            "containerId": "",
+            "name": "kategoria",
+            "url": "kategoria",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-04-17T18:37:30.594Z",
+            "modified": "2024-04-17T18:38:16.962Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "157c7cd3-0b7c-4952-8dd6-b7b2384258e5",
+            "colId": "b975e8b2-3cf0-4670-81fe-2bf96116298a",
+            "containerId": "",
+            "name": "tesztek/kiategoria",
+            "url": "tesztek/kategoria/1",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-04-17T18:37:39.034Z",
+            "modified": "2024-04-17T18:38:34.743Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ],
+    "settings": {
+        "options": {
+            "baseUrl": "http://localhost:8000/api/"
+        }
+    }
+}
